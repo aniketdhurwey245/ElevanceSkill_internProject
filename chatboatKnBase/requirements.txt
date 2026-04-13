@@ -1,0 +1,10 @@
+faiss-cpu
+sentence-transformers
+scikit-learn
+matplotlib
+beautifulsoup4
+requests
+schedule
+numpy
+google-generativeai
+python-dotenv

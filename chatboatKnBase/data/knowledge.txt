@@ -1,0 +1,43 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+Machine Learning (ML) is a subset of AI that enables systems to learn from data.
+Deep Learning is a subset of ML that uses neural networks with many layers.
+Natural Language Processing (NLP) allows machines to understand human language.
+Computer Vision enables machines to interpret and understand visual information.
+
+Google is a multinational technology company specializing in Internet-related services.
+The CEO of Google is Sundar Pichai.
+Sundar Pichai became CEO of Google in 2015.
+Google is owned by Alphabet Inc.
+
+Microsoft is a technology company founded by Bill Gates.
+The CEO of Microsoft is Satya Nadella.
+
+Apple Inc. is a technology company known for iPhones and Mac computers.
+The CEO of Apple is Tim Cook.
+
+Python is a high-level programming language used for AI and data science.
+Java is a widely used programming language for enterprise applications.
+C++ is used for system-level programming.
+
+A chatbot is a software application that simulates human conversation.
+Chatbots use NLP and machine learning techniques.
+RAG stands for Retrieval-Augmented Generation.
+
+FAISS is a library developed by Facebook for efficient similarity search.
+Embeddings are numerical representations of text.
+Vector databases store embeddings for fast retrieval.
+
+Streamlit is a Python framework for building web apps.
+Gemini is a generative AI model developed by Google.
+
+Data Science involves data analysis, visualization, and machine learning.
+Big Data refers to large and complex datasets.
+
+Cloud computing provides computing services over the internet.
+AWS, Azure, and Google Cloud are major cloud providers.
+
+Cybersecurity protects systems and networks from digital attacks.
+Blockchain is a decentralized digital ledger technology.
+
+Internet of Things (IoT) connects devices over the internet.
+Edge computing processes data near the source instead of the cloud.
