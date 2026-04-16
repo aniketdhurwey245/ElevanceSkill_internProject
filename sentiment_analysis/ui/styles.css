@@ -1,0 +1,39 @@
+body {
+    background-color: #0f172a;
+    color: #e2e8f0;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Chat container */
+.chat-container {
+    padding: 20px;
+    border-radius: 12px;
+    background: #020617;
+}
+
+/* User message */
+.user-msg {
+    background: linear-gradient(135deg, #7c3aed, #5b21b6);
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    text-align: right;
+}
+
+/* Bot message */
+.bot-msg {
+    background: #111827;
+    border-left: 4px solid #3b82f6;
+    padding: 12px;
+    border-radius: 12px;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #334155;
+    border-radius: 3px;
+}

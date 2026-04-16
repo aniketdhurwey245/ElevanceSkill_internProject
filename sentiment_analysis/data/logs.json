@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2026-04-16 11:05:32",
+    "user_input": "I am really frustrated with this service",
+    "bot_response": "I understand this is frustrating. I'm here to help.",
+    "sentiment": "negative",
+    "confidence": 0.92
+  },
+  {
+    "timestamp": "2026-04-16 11:06:10",
+    "user_input": "Thanks, that helped!",
+    "bot_response": "Glad I could help!",
+    "sentiment": "positive",
+    "confidence": 0.88
+  }
+]
