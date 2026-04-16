@@ -1,0 +1,7 @@
+streamlit
+transformers
+langdetect
+deep-translator
+sentence-transformers
+torch
+requests
